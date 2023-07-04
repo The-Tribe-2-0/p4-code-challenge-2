@@ -48,8 +48,8 @@ Google chrome
 
 *****
 ## Contact Information
-omiahderek56@gmail.com
+victorireri44@gmail.com
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) 2023 Derek Muguti
+Copyright (c) 2023 Victor Ireri
